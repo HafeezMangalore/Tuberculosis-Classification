@@ -35,7 +35,7 @@ if buffer:
 
 
 if buffer is None:
-    st.text("This model is built for public use by Abdul Hafeez)
+    st.text("This model is built for public use by Abdul Hafeez")
 
 else:
 
